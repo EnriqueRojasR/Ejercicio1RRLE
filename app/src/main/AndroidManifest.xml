@@ -10,10 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ejercicio1RRLE">
         <activity
-            android:name=".Splash"
-            android:exported="false" />
+            android:name=".Aceleracion"
+            android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Rectangulo"
+            android:exported="true" />
+        <activity
+            android:name=".Ohm"
+            android:exported="true" />
+
+        <activity
+            android:name=".Splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +28,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
     </application>
 
 </manifest>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio1RRLE</string>
+    <string name="Version">Version 1.0</string>
+    <string name="Autor">Rojas Ruiz Luis Enrique</string>
+    <string name="Titulo1">Choose the formula</string>
+    <string name="BotonCalcular">Calculate</string>
+    <string name="Ohm">Ohm\'s Law</string>
+    <string name="Rectangulo">Rectangle Area</string>
+    <string name="Newton">Newton\'s Second Law</string>
+    <string name="voltaje">V =</string>
+    <string name="Intens">C =</string>
+    <string name="Intensidad">Current</string>
+    <string name="Voltaje2">Voltage</string>
+    <string name="ResOmh">The resistance value is</string>
+    <string name="H">h =</string>
+    <string name="B">b =</string>
+    <string name="Altura">Height</string>
+    <string name="Base">Base</string>
+    <string name="ResRec">The area value is:</string>
+    <string name="M">m =</string>
+    <string name="A">"a = "</string>
+    <string name="ResNewt">The force value is:</string>
+    <string name="Masa">Mass</string>
+    <string name="Aceleracion">Acceleration</string>
+    <string name="Aviso">You are required to enter a value</string>
+    <string name="Bienvenida">Welcome</string>
+    <string name="Menu">Menu</string>
+</resources>
